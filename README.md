@@ -15,9 +15,6 @@ Players must navigate through a procedurally generated environment, dodging obst
 ### Colorful Environments
 The game features colorful buildings and backgrounds that are procedurally generated, providing a visually appealing experience. Buildings are placed side by side, giving the illusion of a continuous city.
 
-### Chase Mechanic
-The player is pursued by a security guard, adding excitement and pressure to the gameplay. Falling behind or hitting too many obstacles will result in the guard catching the player.
-
 ### Leaderboard
 Players can compete for high scores and see their ranking on the leaderboard, fostering competition among friends and the community.
 
