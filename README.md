@@ -37,3 +37,16 @@ Smooth and dynamic camera movement follows the player throughout the game, enhan
   # ** My Contribution **
 
 - Adjusted the camera when the player jumps using Cinemachine and implemented building spawning in the level.
+
+---------------------------------------
+# ** Team **
+- PG26 Alex
+- PG26 Robert
+- PG26 Henry
+- PG26 Alisa
+- PG26 Spencer
+- PG26 Max
+- PG26 Levi
+- PG26 Xav
+- PG26 Sebastian
+
