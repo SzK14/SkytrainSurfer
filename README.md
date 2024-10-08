@@ -1,14 +1,16 @@
 # Copyright (C) VFS Class PG26, all rights reserved.
 ---------------------------------------
 # SkytrainSurfer
+![image](https://github.com/user-attachments/assets/e6b7ed1a-8e43-4c28-a894-5a9c2edeec91)
 
-# ** Overview **
+
+# **Overview**
 SkyTrainSurfers is a version of the popular endless runner game, Subway Surfers. This Unity project challenges players to run through an urban environment, dodging obstacles and collecting power-ups while being chased by a security guard. The goal is to survive as long as possible, achieving high scores.
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   
 ---------------------------------------
-# ** Features **
+# **Features**
 ### Endless Runner Gameplay
 Players must navigate through a procedurally generated environment, dodging obstacles and collecting power-ups. As the player progresses, the speed and difficulty increase, adding challenge to the game.
 
@@ -23,27 +25,30 @@ Collect various power-ups throughout the run, which offer advantages such as tem
 
 ### Cinemachine Camera System
 Smooth and dynamic camera movement follows the player throughout the game, enhancing the visual experience and immersion.
+![image](https://github.com/user-attachments/assets/c786cb1e-ac21-4e23-a07c-ebb7ca73484c)
+
 
 ---------------------------------------
-# *** How to Play ***
+# ***How to Play***
 - **Swipe Left/Right**: Change lanes to avoid obstacles.
 - **Swipe Up**: Jump over obstacles.
 - **Swipe Down**: Slide under barriers.
   
 ---------------------------------------
-  # ** My Contribution **
+  # **My Contribution**
 
 - Adjusted the camera when the player jumps using Cinemachine and implemented building spawning in the level.
 
 ---------------------------------------
-# ** Team **
-- PG26 Alex
-- PG26 Robert
-- PG26 Henry
-- PG26 Alisa
-- PG26 Spencer
-- PG26 Max
-- PG26 Levi
-- PG26 Xav
-- PG26 Sebastian
+# **Team**
+- [PG26 Alex](<https://github.com/PG26AlexG>)
+- [PG26 Robert](<https://github.com/senat0r0v>)
+- [PG26 Henry](<https://github.com/PG26HenryWilliams>)
+- [PG26 Alisa](<https://github.com/PG26Alisa>)
+- [PG26 Spencer](<https://github.com/pg26spencer>)
+- [PG26 Max](<https://github.com/pg26max>)
+- [PG26 Levi](<https://github.com/pg26levi>)
+- [PG26 Xav](<https://github.com/pg26xav>)
+- [PG26 Sebastian](<https://github.com/SzK14>)
+- [PG26 Pretetham](<https://github.com/PG26Preetham>)
 
